@@ -4,4 +4,4 @@
   edge_functions = "edge-functions"
 
 [[plugins]]
-  package = "@netlify/next"
+  package = "@netlify/plugin-nextjs
